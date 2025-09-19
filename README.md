@@ -1,6 +1,6 @@
 # 🛍️ Moda Ora
 
-![Banner de apresentação](./images/moda_ora_cover.png) 
+![Banner de apresentação](./images/moda_hora_cover.png) 
 ## 📖 Sobre o projeto
 O **Moda Ora** é um site fictício de moda desenvolvido para praticar **HTML5** e **CSS3** com foco em design elegante e responsivo.  
 O projeto simula uma vitrine digital de roupas, transmitindo modernidade, sofisticação e atenção aos detalhes.
